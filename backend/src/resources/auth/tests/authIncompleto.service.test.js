@@ -12,8 +12,8 @@ describe('Auth Service', () => {
     test('should create a new user', async () => {
         // create new user
         const newUser = {
-            nome: "Andre Felipe",
-            email: "andre.felipe@example.com",
+            nome: "Ana Karina",
+            email: "kaka@gmail.com",
             senha: "senha123"
         };
 
